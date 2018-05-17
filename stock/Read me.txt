@@ -1,0 +1,7 @@
+Manager 	Password: 1234	User Name:admin
+Stock Manager 	Password:1234 	User Name:stock
+
+Application not working properly you need to change
+core.php, logout.php, index.php
+header('location: http://localhost/stock/index.php');	
+
